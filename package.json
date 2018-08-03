@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/ianfireman/codezign/issues"
   },
-  "homepage": "https://github.com/ianfireman/codezign#readme"
+  "homepage": "https://github.com/ianfireman/codezign#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "inquirer-fuzzy-path": "^1.0.0"
+  }
 }
